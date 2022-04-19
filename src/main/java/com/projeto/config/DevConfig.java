@@ -1,4 +1,4 @@
-package com.validator.config;
+package com.projeto.config;
 
 import java.text.ParseException;
 
@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 
-import com.validator.services.DBService;
+import com.projeto.services.DBService;
 
 @Configuration
 @Profile("dev")

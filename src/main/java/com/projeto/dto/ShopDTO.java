@@ -1,4 +1,4 @@
-package com.validator.dto;
+package com.projeto.dto;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

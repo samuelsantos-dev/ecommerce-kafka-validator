@@ -1,12 +1,12 @@
-package com.validator.services;
+package com.projeto.services;
 
 import java.util.Arrays;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.validator.domain.Product;
-import com.validator.repositories.ProductRepository;
+import com.projeto.domain.Product;
+import com.projeto.repositories.ProductRepository;
 
 @Service
 public class DBService {

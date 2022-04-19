@@ -1,4 +1,4 @@
-package com.validator.dto;
+package com.projeto.dto;
 
 public class ShopItemDTO {
 

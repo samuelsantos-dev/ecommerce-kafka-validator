@@ -1,4 +1,4 @@
-package com.validator.domain;
+package com.projeto.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -45,6 +45,11 @@ public class Product {
 		this.id = id;
 		this.identifier = identifier;
 		this.amount = amount;
+	}
+
+	public Product() {
+		super();
+		// TODO Auto-generated constructor stub
 	}
 
 }
