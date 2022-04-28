@@ -19,6 +19,8 @@ public class DBService {
 		Product product2 = new Product(null, "987654321", 200);
 
 		rep.saveAll(Arrays.asList(product, product2));
+		
+		
 
 	}
 }
